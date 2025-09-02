@@ -6,7 +6,6 @@ public class Ejercicio_No14 {
     public static void main(String[] args) {
         
         double numero, cuadrado, cubo;
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Ingrese un número:");
