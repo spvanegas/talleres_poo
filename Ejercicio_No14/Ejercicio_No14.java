@@ -11,7 +11,7 @@ public class Ejercicio_No14 {
         System.out.println("Ingrese un número:");
         numero = scanner.nextDouble();
         cuadrado = calculos.calcular_cuadrado(numero);
-        cubo =  calculos.calcular_cubo(numero);
+        cubo = calculos.calcular_cubo(numero);
 
         System.out.println("Número: " + numero);
         System.out.println("Cuadrado: " + cuadrado);
